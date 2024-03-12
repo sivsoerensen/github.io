@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/pages-themes/cayman
+  revision: 56aa6db3b5088a555aa563e8bf071f3d18565d3b
+  specs:
+    jekyll-theme-cayman (0.2.0)
+      jekyll (> 3.5, < 5.0)
+      jekyll-seo-tag (~> 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -160,9 +168,6 @@ GEM
     jekyll-theme-architect (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-cayman (0.2.0)
-      jekyll (> 3.5, < 5.0)
-      jekyll-seo-tag (~> 2.0)
     jekyll-theme-dinky (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
@@ -282,7 +287,7 @@ DEPENDENCIES
   github-pages (~> 231)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-theme-cayman (~> 0.2.0)!
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
