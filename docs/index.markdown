@@ -6,10 +6,12 @@
 # (base) sivs@DTU-5CG125923N:~/socialViz/github.io/docs$ bundle exec jekyll serve
 # website: http://127.0.0.1:4000/week7/
 
+# {% include_relative _content/example.md %}
+
 layout: default
 ---
 
-{% include_relative _content/example.md %}
+
 
 Write text here.. 
 
@@ -37,3 +39,9 @@ Third plot:
     width="100%"
     height="600">
 </iframe>
+
+{% include focuscrime_frequency_interactive_piechart.html url="https://sivsoerensen.github.io/week7/docs/focuscrime_frequency_interactive_piechart.html" %}
+
+
+{% include HeatMapWithTime_prostitution.html url="https://github.com/sivsoerensen/week7/blob/main/docs/_includes/html/focuscrime_frequency_interactive_piechart.html" %}
+
