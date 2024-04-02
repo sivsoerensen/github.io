@@ -27,7 +27,6 @@ First plot:
     height="100%">
 
 
-
 Second plot:
 <iframe src="https://sivsoerensen.github.io/docs/assets/html/HeatMapWithTime_prostitution.html"
     width="100%"
@@ -35,7 +34,7 @@ Second plot:
 </iframe>
 
 Third plot:
-<iframe src="docs/focuscrime_frequency_interactive_piechart.html" 
+<iframe src="https://github.com/sivsoerensen/week7/blob/main/docs/focuscrime_frequency_interactive_piechart.html" 
     width="100%"
     height="600">
 </iframe>
@@ -43,5 +42,11 @@ Third plot:
 {% include focuscrime_frequency_interactive_piechart.html url="https://sivsoerensen.github.io/week7/docs/focuscrime_frequency_interactive_piechart.html" %}
 
 
-{% include HeatMapWithTime_prostitution.html url="https://github.com/sivsoerensen/week7/blob/main/docs/_includes/html/focuscrime_frequency_interactive_piechart.html" %}
+{% include focuscrime_frequency_interactive_piechart.html url="https://github.com/sivsoerensen/week7/blob/main/docs/focuscrime_frequency_interactive_piechart.html" %}
+
+
+{% include HeatMapWithTime_prostitution.html url="https://sivsoerensen.github.io/week7/docs/HeatMapWithTime_prostitution.html" %}
+
+
+{% include HeatMapWithTime_prostitution.html url="https://github.com/sivsoerensen/week7/blob/main/docs/HeatMapWithTime_prostitution.html" %}
 
