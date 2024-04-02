@@ -28,20 +28,12 @@ First plot:
 
 Second plot:
 <iframe src="https://sivsoerensen.github.io/docs/assets/html/HeatMapWithTime_prostitution.html"
-    sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
+    height="600">
 </iframe>
 
 Third plot:
 <iframe src="docs/focuscrime_frequency_interactive_piechart.html" 
-    sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
+    height="600">
 </iframe>
