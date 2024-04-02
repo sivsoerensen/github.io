@@ -37,7 +37,7 @@ Second plot:
 </iframe>
 
 Third plot:
-<iframe src="https://sivsoerensen.github.io/week7/docs/assets/html/focuscrime_frequency_interactive_piechart.html" 
+<iframe src="https://sivsoerensen.github.io/week7/docs/focuscrime_frequency_interactive_piechart.html" 
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
