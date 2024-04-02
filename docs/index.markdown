@@ -27,7 +27,7 @@ First plot:
 
 
 Second plot:
-<iframe src="https://sivsoerensen.github.io/week7/docs/assets/html/HeatMapWithTime_prostitution.html"
+<iframe src="https://sivsoerensen.github.io/docs/assets/html/HeatMapWithTime_prostitution.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
@@ -37,7 +37,7 @@ Second plot:
 </iframe>
 
 Third plot:
-<iframe src="https://sivsoerensen.github.io/week7/docs/focuscrime_frequency_interactive_piechart.html" 
+<iframe src="docs/focuscrime_frequency_interactive_piechart.html" 
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
