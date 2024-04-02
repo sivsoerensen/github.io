@@ -15,13 +15,19 @@ Write text here..
 
 First plot:
 
-![Ask Ubuntu image](/assets/png/focuscrime_occurences_barplot.png){: 
-style="float: center; margin: 0 2rem 0 0;" width="100%" }
+#![image](/assets/png/focuscrime_occurences_barplot.png){: 
+#style="float: center; margin: 0 2rem 0 0;" width="100%" }
+
+
+First plot:
+<img src="https://sivsoerensen.github.io/week7/docs/assets/png/focuscrime_occurences_barplot.png" 
+    width="100%" 
+    height="100%">
 
 
 
 Second plot:
-<iframe src=".. /html/HeatMapWithTime_prostitution.html"
+<iframe src="https://sivsoerensen.github.io/week7/docs/assets/html/HeatMapWithTime_prostitution.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
@@ -31,7 +37,7 @@ Second plot:
 </iframe>
 
 Third plot:
-<iframe src="docs/_content/html/focuscrime_frequency_interactive_piechart.html" 
+<iframe src="https://sivsoerensen.github.io/week7/docs/assets/html/focuscrime_frequency_interactive_piechart.html" 
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
